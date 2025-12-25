@@ -1,6 +1,6 @@
-#[1] Go to [https://www.kaggle.com/competitions/mlolympiadbd2024] for the actual dataset.
-#[2] Go to [https://xgboost.readthedocs.io/en/stable/] for XGBM documentation.
-#[3] Go to [https://lightgbm.readthedocs.io/en/stable/] for LGBM documentation.
-#[4] Go to [https://catboost.ai/] for CB documentation.
-#[5] Go to [https://scikit-learn.org/stable/api/index.html] for sklearn API reference.
-#[6] Go to [https://optuna.org/] for optuna documentation.
+## [1] Go to [Dataset](https://www.kaggle.com/competitions/mlolympiadbd2024) for the actual dataset.
+## [2] Go to [XGBM](https://xgboost.readthedocs.io/en/stable/) for XGBM documentation.
+## [3] Go to [LGBM](https://lightgbm.readthedocs.io/en/stable/) for LGBM documentation.
+## [4] Go to [CatBoost](https://catboost.ai/) for CB documentation.
+## [5] Go to [Skcikit-Learn](https://scikit-learn.org/stable/api/index.html) for sklearn API reference.
+## [6] Go to [Optuna](https://optuna.org/) for optuna documentation.
