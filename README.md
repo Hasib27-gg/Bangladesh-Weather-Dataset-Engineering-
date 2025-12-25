@@ -7,7 +7,7 @@ intuation into the dataset.
 
 
 ## [2] The dataset:
-*Check the External Dependencies for the direct link to the dataset in kaggle.
+**Check the External Dependencies for the direct link to the dataset in kaggle.**
 This is a tabular dataset, containing 10 years of weather information of Bangladesh. The dataset is divided into three parts: train.csv,
 test.csv and sample_submission.csv. This dataset is very small, compared to the aggressive enginnering in the notebook. The dataset is also
 quite straight forward , conating no null data. Additionally, the dataset is quite imbalanced, about 26% positive results.
@@ -15,7 +15,7 @@ quite straight forward , conating no null data. Additionally, the dataset is qui
        we actually knew the answers and we didn't need to spend any time on enginnering :( .
 
 ## [3] The engineering & stratigies:
-*Check the Engineering Pipeline for full walk through the code.
+**Check the Engineering Pipeline for full walk through the code.**
 At first, feature enginnering required for the dataset , like simplifying the names of columns, checking if null columns exists , 
 converting the datetime to days , filtered the dataset by dropping unecessary columns etc. to make the dataset fittable and predictable.
 Then used various model selection stragy to makeup the model. The actual model is hybrid , meaning the predictor model is made up base and meta
@@ -26,6 +26,6 @@ I couldn't submit to the actual kaggle competition. However, I checked the accur
 actual values and obviously my model. I got, 0.838% accuracy, better than most contestants in the actual competition , but I know it's horrable.
 
 ## [5] How to use the code in my computer:
-*Check the Requirements for all information and guide . If you don't follow, the code may break / raise Error.
+**Check the Requirements for all information and guide . If you don't follow, the code may break / raise Error.**
 
 Please inform if you find any bug or significant improvement in the code or the model enginnering
