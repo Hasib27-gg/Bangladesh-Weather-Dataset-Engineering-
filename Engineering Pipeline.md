@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Data Loading & Drop Irrelevant Columns] --> B[Column Checking & Null Detection]
     B --> C[Rename Columns]
@@ -56,3 +57,5 @@ flowchart TD
     style Y fill:#ABEBC6,stroke:#52BE80,stroke-width:2px,color:#000000
     style Z fill:#ABEBC6,stroke:#52BE80,stroke-width:2px,color:#000000
     style END fill:#28B463,stroke:#1E8449,stroke-width:4px,color:#FFFFFF
+
+```
