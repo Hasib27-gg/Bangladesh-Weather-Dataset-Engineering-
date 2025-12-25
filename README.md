@@ -2,7 +2,7 @@
 
 ## [1] What is this?:
 Hello! I am Hasib saying 👋. As a 7th grader , I am still beginner into Machine Learning and Deep Learning territory . This is just a
-repo, contaning how I achieved 0.838 accuracy on a particular dataset. Eventhough this is not polished, I tried my best to get deep
+repo, contaning how I engineered on a particular dataset. Eventhough this is not polished, I tried my best to get deep
 intuation into the dataset. 
 
 
