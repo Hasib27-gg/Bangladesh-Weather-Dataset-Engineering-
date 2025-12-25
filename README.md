@@ -10,9 +10,8 @@ intuation into the dataset.
 **Check the External Dependencies for the direct link to the dataset in kaggle.**
 This is a tabular dataset, containing 10 years of weather information of Bangladesh. The dataset is divided into three parts: train.csv,
 test.csv and sample_submission.csv. This dataset is very small, compared to the aggressive enginnering in the notebook. The dataset is also
-quite straight forward , conating no null data. Additionally, the dataset is quite imbalanced, about 26% positive results.
-#NOTE: The datasets have a massive exploit: The sample submission contains all the actual values for testing the model, meaning that
-       we actually knew the answers and we didn't need to spend any time on enginnering :( .
+quite straight forward , conating no null data. Additionally, the dataset is quite imbalanced, about 26% positive results. \n
+## NOTE: The datasets have a massive exploit: The sample submission contains all the actual values for testing the model, meaning that we actually knew the answers and we didn't need to spend any time on enginnering :( .
 
 ## [3] The engineering & stratigies:
 **Check the Engineering Pipeline for full walk through the code.**
